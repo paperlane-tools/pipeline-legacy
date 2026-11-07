@@ -64,4 +64,4 @@ report   生成中文报告
 
 ## 许可证
 
-[PolyForm Noncommercial 1.0.0](LICENSE) © 2026 paperlane-tools
+[GPL-3.0-only](LICENSE) © 2026 paperlane-tools；修改版须注明来源（见 [NOTICE](NOTICE)）
