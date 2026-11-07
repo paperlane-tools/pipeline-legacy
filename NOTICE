@@ -5,7 +5,25 @@ This program is free software: you can redistribute it and/or modify it under
 the terms of the GNU General Public License as published by the Free Software
 Foundation, version 3 of the License only.
 
-Additional Terms under GNU GPL v3 Section 7(b):
-- 修改版必须在显著位置注明「基于 paperlane-tools/pipeline-legacy 修改」；
-- 保留本版权声明与项目地址；
-- 说明修改日期。
+Additional Terms under GNU GPL v3 Section 7:
+
+1. 署名与来源（7(b)）
+   修改版必须在显著位置（README、关于页或程序启动信息）注明：
+   「基于 paperlane-tools/pipeline-legacy 修改」，并保留本版权声明与项目地址。
+
+2. 修改标注（7(f)）
+   修改过的文件必须标注修改日期；分发修改版时，须在 README 中概述修改内容。
+
+3. 不得冒用作者名义（7(c)）
+   不得以原作者或本项目名义对修改版进行宣传、背书或暗示官方关联；
+   不得删除、篡改本版权声明与 NOTICE。
+
+4. 名称使用（7(d)）
+   未经书面许可，不得使用项目名称、作者名称或图标作为修改版的商标、
+   产品名或商业推广标识。
+
+5. 分发时附带完整条款（7(b)）
+   分发任何副本或修改版时，必须同时提供 LICENSE 与 NOTICE 原文。
+
+6. 免责（7(a)）
+   在法律允许的范围内，作者不对使用或无法使用本软件造成的任何损失承担责任。
